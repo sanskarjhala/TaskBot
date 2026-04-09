@@ -1,11 +1,11 @@
-# 🤖 AI Task Management Agent
+#  AI Task Management Agent
 
 An AI Agent that manages tasks using **natural language**.  
 Built with **LangChain, Groq, SQLite, and Streamlit**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Create, update, delete tasks  
 - Natural Language → SQL execution  
@@ -14,7 +14,7 @@ Built with **LangChain, Groq, SQLite, and Streamlit**.
 
 ---
 
-## 💡 Example Commands
+##  Example Commands
 
 - Create a task to learn AI  
 - Show all tasks  
@@ -23,7 +23,7 @@ Built with **LangChain, Groq, SQLite, and Streamlit**.
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - LangChain + LangGraph  
 - OpenAI (Github-models)  
@@ -32,14 +32,14 @@ Built with **LangChain, Groq, SQLite, and Streamlit**.
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ```bash
 git clone https://github.com/your-username/ai-task-agent.git
 cd ai-task-agent
 uv add -r requirements.txt
 ```
-## ⚙️ Create .env file:
+## Create .env file:
 ```bash
 TOKEN=your_api_key
 ```
