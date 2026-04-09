@@ -3,3 +3,6 @@ langchain-core
 langchain-community
 langchain-openai
 dotenv
+streamlit
+langchain-groq
+langgraph
